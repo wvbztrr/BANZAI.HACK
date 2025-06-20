@@ -8,8 +8,8 @@ javascript:fetch("https://raw.githubusercontent.com/wvbztrr/BANZAI.HACK/refs/hea
 ---
 
 <p align="center">
-  <a href="[https://emoji.gg/emoji/5349-hellokittybyebye](https://emoji.gg/emoji/53860-xbox-red-logo)">
-    <img src="https://cdn3.emoji.gg/emojis/53860-xbox-red-logo.png" width="128px" height="128px" alt="Xbox_red_logo">
+  <a href="https://cdn3.emoji.gg/emojis/12624-dred-admin.png">
+    <img src="https://cdn3.emoji.gg/emojis/12624-dred-admin.png" width="128px" height="128px" alt="dred_admin">
   </a>
 </p>
 
