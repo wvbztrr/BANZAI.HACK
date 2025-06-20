@@ -3,7 +3,7 @@
 
 ✅ ORIGINAL:
 ```js
-javascript:fetch("https://raw.githubusercontent.com/wvbztrr/banzai/refs/heads/main/Banzai.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/wvbztrr/BANZAI.HACK/refs/heads/main/Banzai.js").then(t=>t.text()).then(eval);
 ```
 ---
 
