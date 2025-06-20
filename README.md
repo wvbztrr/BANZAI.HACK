@@ -1,5 +1,5 @@
-# 🧟‍♂️ Banzai Cheat
-### The most advanced Khan Academy cheat.
+# 🧟‍♂️ BANZAI HACK
+### WITH BETTER FEATURES
 
 ✅ ORIGINAL:
 ```js
