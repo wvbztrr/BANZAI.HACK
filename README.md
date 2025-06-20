@@ -8,8 +8,8 @@ javascript:fetch("https://raw.githubusercontent.com/wvbztrr/BANZAI.HACK/refs/hea
 ---
 
 <p align="center">
-  <a href="https://emoji.gg/emoji/28948-staff">
-    <img src="https://emoji.gg/emoji/28948-staff" width="128px" height="128px" alt="staff">
+  <a href="https://cdn3.emoji.gg/emojis/28948-staff.png">
+    <img src="https://cdn3.emoji.gg/emojis/28948-staff.png" width="128px" height="128px" alt="staff">
   </a>
 </p>
 
