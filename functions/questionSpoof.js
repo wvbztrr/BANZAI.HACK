@@ -1,8 +1,5 @@
 const phrases = [ 
-    "[🧟‍♂️] hugs from [webster](https://instagram.com/wbztrr)",
-    "[🧟‍♂️] how about you sell this?",
     "[🧟‍♂️] better than chatgpt",
-    "[🧟‍♂️] on your own",
     "[🧟‍♂️] hey siri",
 ];
 
