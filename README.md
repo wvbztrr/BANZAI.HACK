@@ -6,10 +6,6 @@
 javascript:fetch("https://raw.githubusercontent.com/wvbztrr/BANZAI.HACK/refs/heads/main/Banzai.js").then(t=>t.text()).then(eval);
 ```
 
-👤 PRIVATE:
-```js
-javascript:fetch("https://raw.githubusercontent.com/wvbztrr/BANZAI.HACK/refs/heads/main/Banzai.js?token=GHSAT0AAAAAADFOJEHPYIWEX375W76OTTBI2CWDYDA").then(t=>t.text()).then(eval);
-```
 ---
 
 <p align="center">
