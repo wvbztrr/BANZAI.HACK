@@ -16,7 +16,8 @@ khanwareDominates = true;
 
             if (features.nextRecomendation) baseSelectors.push("._1rbbzbcj")
             if (features.nextRecomendation) baseSelectors.push("._obvhdgf")
-            if (features.repeatQuestion) baseSelectors.push("._fl97x3f");
+            if (features.repeatQuestion) baseSelectors.push("._fl97x3f")
+            if (features.repeatQuestion) baseSelectors.push("._obvhdgf");
 
             for (const q of selectorsToCheck) {
                 findAndClickBySelector(q);
@@ -26,6 +27,6 @@ khanwareDominates = true;
                 }
             }
         }
-        await delay(featureConfigs.autoAnswerDelay * 800);
+        await delay(featureConfigs.autoAnswerDelay * 1000);
     }
 })();
