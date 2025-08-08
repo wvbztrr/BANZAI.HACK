@@ -14,8 +14,8 @@ khanwareDominates = true;
             
             const selectorsToCheck = [...baseSelectors];
 
-            if (features.nextRecomendation) baseSelectors.push("._1rbbzbcj")
-            if (features.nextRecomendation) baseSelectors.push("._obvhdgf")
+            if (features.nextRecomendation) baseSelectors.push("._yxvt1q8")
+            if (features.nextRecomendation) baseSelectors.push("._1wi2tma4")
             if (features.repeatQuestion) baseSelectors.push("._fl97x3f")
             if (features.repeatQuestion) baseSelectors.push("._obvhdgf");
 
