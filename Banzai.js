@@ -44,6 +44,7 @@ window.featureConfigs = {
 
 /* Security */
 document.addEventListener('contextmenu', (e) => !window.disableSecurity && e.preventDefault());
+document.addEventListener('keydown', (e) => { if (!window.disableSecurity && (e.key === 'F12' || (e.ctrlKey && e.shiftKey && ['I', 'C', 'J'].includes(e.key)))) { e.preventDefault(); } });
 console.log(Object.defineProperties(new Error, { toString: {value() {(new Error).stack.includes('toString@') && location.reload();}}, message: {get() {location.reload();}}, }));
 
 /* Misc Styles */
@@ -121,3 +122,4 @@ loadScript('https://cdn.jsdelivr.net/npm/toastify-js', 'toastifyPlugin')
     
     console.clear();
 });
+
