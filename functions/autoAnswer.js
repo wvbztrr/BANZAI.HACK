@@ -16,8 +16,8 @@ khanwareDominates = true;
 
             if (features.nextRecomendation) baseSelectors.push("._yxvt1q8")
             if (features.nextRecomendation) baseSelectors.push("._1wi2tma4")
-            if (features.repeatQuestion) baseSelectors.push("._fl97x3f")
-            if (features.repeatQuestion) baseSelectors.push("._obvhdgf");
+            if (features.repeatQuestion) baseSelectors.push("._1wi2tma4")
+            if (features.repeatQuestion) baseSelectors.push("._ry7r99o");
 
             for (const q of selectorsToCheck) {
                 findAndClickBySelector(q);
